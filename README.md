@@ -6,7 +6,7 @@ This script helpful to check about the multitasking performance every single app
 
 Currently support only windows PC and used adb am start command like below.
 
-adb -s [device id] shell am start -W [package name]/[activity name]
++ adb -s [device id] shell am start -W [package name]/[activity name]
 
 Test application secanrio included 20 different applications also its 1 cycle(shopping, game, sns, etc...)
 
